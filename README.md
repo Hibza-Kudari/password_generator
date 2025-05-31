@@ -6,28 +6,6 @@ In the modern digital landscape, the security of online accounts and sensitive d
 
 ---
 
-## 📘 Contents
-
-| Sl. No | Title                  | Page No. |
-| ------ | ---------------------- | -------- |
-| 1      | Introduction           | 1        |
-| 2      | Problem Definition     | 2        |
-| 3      | Proposed Methodology   | 3–4      |
-| 4      | Implementation         | 5–8      |
-| 5      | Results and Discussion | 9        |
-| 6      | Conclusion             | 10       |
-
-### 📊 List of Figures
-
-| Sl. No | Figure Title                   | Page No. |
-| ------ | ------------------------------ | -------- |
-| 4.2.1  | Prompt on Execution            | 5        |
-| 4.2.2  | ERROR: Password too short      | 6        |
-| 4.2.3  | ERROR: Invalid Input           | 6        |
-| 4.2.4  | Successful Password Generation | 6        |
-
----
-
 ## 🔍 Introduction
 
 With the rapid digitization of services, users must manage numerous accounts, each requiring secure passwords. Remembering complex passwords is difficult, leading many to use simple or repetitive ones—compromising security.
